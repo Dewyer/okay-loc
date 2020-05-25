@@ -8,7 +8,7 @@ description="Binary for counting lines of code in project, it is okay and git 'a
 homepage="https://github.com/Dewyer/okay-loc"
 repository="https://github.com/Dewyer/okay-loc"
 readme="README.md"
-keywords=["lines of code","loc"]
+keywords=["lines","loc"]
 
 [dependencies]
 clap = "2.33.1"
