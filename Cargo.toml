@@ -1,10 +1,14 @@
 [package]
 name = "okay-loc"
 version = "0.1.0"
-authors = ["Barna Rátki <barna.ratki@gmail.com>"]
+authors = ["Barnabás Rátki <barna@wexo.systems>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT OR Apache-2.0"
+description="Binary for counting lines of code in project, it is okay and git 'aware'."
+homepage="https://github.com/Dewyer/okay-loc"
+repository="https://github.com/Dewyer/okay-loc"
+readme="README.md"
+keywords=["lines of code","loc"]
 
 [dependencies]
 clap = "2.33.1"
