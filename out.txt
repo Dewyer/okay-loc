@@ -1,0 +1,12 @@
+Counting Okay-loc!
+Path :"./"
+Added gitignore !, ./.gitignore
+Checking file :./Cargo.toml
+Checking file :./out.txt
+Checking file :./LICENSE
+Checking file :./target/.rustc_info.json
+Checking file :./target/debug/.fingerprint/vec_map-1ba76ce44f02bd90/lib-vec_map
+Checking file :./target/debug/.fingerprint/vec_map-1ba76ce44f02bd90/lib-vec_map.json
+Checking file :./target/debug/.fingerprint/vec_map-1ba76ce44f02bd90/dep-lib-vec_map
+Checking file :./target/debug/.fingerprint/vec_map-1ba76ce44f02bd90/invoked.timestamp
+Checking file :./target/debug/.fingerprint/strsim-f3c3041b2b7e21bb/lib-strsim.json
